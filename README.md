@@ -20,3 +20,10 @@ Este proyecto es un juego interactivo de adivinanza de números, desarrollado ut
 -   **HTML**: Estructura del contenido y la interfaz de usuario.
 -   **CSS**: Estilos y diseño visual del juego.
 -   **JavaScript**: Lógica del juego, manipulación del DOM e interactividad.
+
+## Cómo Jugar
+
+1.  Ingresa un número en el campo de entrada.
+2.  Haz clic en el botón "Intentar" para enviar tu intento.
+3.  Recibirás retroalimentación sobre si tu intento es muy alto, muy bajo o correcto.
+4.  Intenta adivinar el número secreto dentro del número limitado de intentos.
