@@ -1,7 +1,7 @@
 # Juego de Adivina el Número Secreto
 [Probar el Juego](https://gezcarlos22.github.io/Numero_Secreto/)
 
-(img\Proyecto.png)
+(img/Proyecto.png)
 
 ## Descripción
 
